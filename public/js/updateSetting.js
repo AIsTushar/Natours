@@ -8,8 +8,8 @@ const btnSavePassword = document.querySelector(".btn--save-password");
 const updateData = async (data, type) => {
   const url =
     type === "password"
-      ? "http://localhost:3000/api/v1/users/updateMyPassword"
-      : "http://localhost:3000/api/v1/users/updateMe";
+      ? "/api/v1/users/updateMyPassword"
+      : "/api/v1/users/updateMe";
   try {
     const res = await axios({
       method: "PATCH",
