@@ -24,6 +24,30 @@ Natours is a comprehensive Node.js application developed using Express, MongoDB,
 - **Pug** : Template engine for Node.js.
 - **npm Modules:** Utilize various npm modules for additional functionality.
 
+## Getting Started
+
+### Prerequisites
+
+Make sure you have the following installed on your machine:
+
+- Node.js
+- MongoDB Atlas account
+- nodemon package to run the server
+
+### Screenshot of the application Frontend Part
+
+- **View All Tours Page**  
+  ![View All tours Page Screenshot](/public/screen_shots/All_tours.png?raw=true)
+
+- **Tour Details Page**  
+   ![Tour Details Page Screenshot](/public/screen_shots/TOUR.png?raw=true)
+
+- **Profile Page**  
+   ![profile Page Screenshot](/public/screen_shots/Admin.png?raw=true)
+
+- **Buy Tour Using Stripe**  
+   ![profile Page Screenshot](/public/screen_shots/buyTour.png?raw=true)
+
 ## Setup
 
 1. Clone the repository:
