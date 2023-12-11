@@ -40,7 +40,7 @@ Make sure you have the following installed on your machine:
   ![View All tours Page Screenshot](/public/screen_shots/All_tours.png?raw=true)
 
 - **Tour Details Page**  
-   ![Tour Details Page Screenshot](/public/screen_shots/TOUR.png?raw=true)
+   ![Tour Details Page Screenshot](/public/screen_shots/Tour.png?raw=true)
 
 - **Profile Page**  
    ![profile Page Screenshot](/public/screen_shots/Admin.png?raw=true)
